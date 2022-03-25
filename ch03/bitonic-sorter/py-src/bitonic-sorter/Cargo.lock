@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "opaque"
+name = "bitonic-sorter"
 version = "0.1.0"
